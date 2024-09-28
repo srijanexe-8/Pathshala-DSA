@@ -34,6 +34,7 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 - [Bhawna Sharma](www.linkedin.com/in/bhawna-sharma-172350329)
 - [Ridhima Singh](https://www.linkedin.com/in/ridhima-singh-342812325)
 - [Harshdeep Singh](https://www.linkedin.com/in/harshdeep-singh-166825320)
+- [Srijan Sharma] (https://www.linkedin.com/in/srijan-sharma-4b1071288)
 
 ---
 
